@@ -1,0 +1,22 @@
+.container {
+    margin-left: 50px;
+}
+
+h2 {
+    color: hsl(240, 32%, 47%);
+}
+
+hr {
+    /* border: none;
+    height: 1px; */
+    border-color: rgb(164, 164, 239);
+}
+
+li {
+    list-style-type: disc;
+}
+
+.resume_page {
+    height: 70rem;
+    width: 60rem;
+}
